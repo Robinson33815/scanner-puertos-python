@@ -80,7 +80,7 @@ Ingresar desde:
 
 ## Servidor iniciado
 
-![Servidor iniciado].(/01_servidor_iniciado.png)
+![Servidor iniciado](./01_servidor_iniciado.png)
 
 # 5. Uso de la aplicación
 
@@ -89,7 +89,7 @@ Ingresar desde:
 Al iniciar la aplicación se muestra la interfaz del escáner TCP con los
 campos necesarios para realizar el análisis.
 
-![Servidor iniciado].(/02_pantalla_principal.png)
+![Servidor iniciado](/02_pantalla_principal.png)
 
 Campos:
 
@@ -116,7 +116,7 @@ Botones:
 
 ## Confirmación de autorización
 
-![Confirmación](capturas/03_confirmacion.png)
+![Servidor iniciado](/03_confirmacion.png)
 
 ## Escaneo en progreso
 
