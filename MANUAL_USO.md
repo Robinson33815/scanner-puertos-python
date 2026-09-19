@@ -256,3 +256,15 @@ especializadas como Nmap en entornos autorizados.
     ├── escaner_web/
     ├── scanner/
     └── capturas/
+    scanner-puertos-python/
+│
+├── 📄 README.md              → Presentación del proyecto
+├── 📄 MANUAL_USO.md          → Manual técnico
+├── 📄 requirements.txt       → Dependencias
+├── ⚙️ manage.py              → Django
+│
+├── 🌐 escaner_web/            → Configuración Django
+├── 🔍 scanner/                → Lógica del escáner
+├── 📜 scanner_puertos.py      → Script principal
+│
+└── 📸 capturas/               → Evidencias del funcionamiento
