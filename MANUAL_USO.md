@@ -80,7 +80,7 @@ Ingresar desde:
 
 ## Servidor iniciado
 
-![Servidor iniciado](./01_servidor_iniciado.png)
+![imagenes](./01_servidor_iniciado.png)
 
 # 5. Uso de la aplicación
 
