@@ -80,7 +80,7 @@ Ingresar desde:
 
 ## Servidor iniciado
 
-![imagenes](./01_servidor_iniciado.png)
+![Servidor iniciado](imagenes/01_servidor_iniciado.png)
 
 # 5. Uso de la aplicación
 
@@ -89,7 +89,7 @@ Ingresar desde:
 Al iniciar la aplicación se muestra la interfaz del escáner TCP con los
 campos necesarios para realizar el análisis.
 
-![Servidor iniciado](/02_pantalla_principal.png)
+![Servidor iniciado](imagenes/02_pantalla_principal.png)
 
 Campos:
 
@@ -116,11 +116,11 @@ Botones:
 
 ## Confirmación de autorización
 
-![Servidor iniciado](/03_confirmacion.png)
+![Servidor iniciado](imagenes/03_confirmacion.png)
 
 ## Escaneo en progreso
 
-![Servidor iniciado](/04_escaneo_en_progreso.png)
+![Servidor iniciado](imagenes/04_escaneo_en_progreso.png)
 
 Nota: el tiempo depende de la cantidad de puertos evaluados y de la
 respuesta del equipo analizado.
@@ -135,9 +135,9 @@ El sistema muestra:
 -   Resumen del análisis.
 -   Informe generado por el analista.
 
-![Servidor iniciado](/05_resultados.png)
+![Servidor iniciado](imagenes/05_resultados.png)
 
-![Servidor iniciado](/06_resumen.png)
+![Servidor iniciado](imagenes/06_resumen.png)
 
 # 5.4 Informe del analista de ciberseguridad
 
@@ -149,11 +149,11 @@ El sistema genera un reporte con:
 -   Recomendaciones de mitigación.
 -   Conclusión técnica.
 
-![Servidor iniciado](/07_informe_analista.png)
+![Servidor iniciado](imagenes/07_informe_analista.png)
 
-![Servidor iniciado](/08_hallazgos.png)
+![Servidor iniciado](imagenes/08_hallazgos.png)
 
-![Servidor iniciado](/09_recomendaciones.png)
+![Servidor iniciado](imagenes/09_recomendaciones.png)
 
 # 5.5 Guardar resultados
 
@@ -164,7 +164,7 @@ El usuario puede descargar el archivo:
 Este contiene fecha, IP analizada, rango evaluado, puertos encontrados e
 informe generado.
 
-![Servidor iniciado](/10_archivo_guardado.png)
+![Servidor iniciado](imagenes/10_archivo_guardado.png)
 
 # 5.6 Uso por consola
 
@@ -177,7 +177,7 @@ python scanner_puertos.py
 El programa solicita la IP objetivo, rango de puertos y autorización
 antes de iniciar.
 
-![Servidor iniciado](/12_consola.png)
+![Servidor iniciado](imagenes/12_consola.png)
 
 # 6. Interpretación de resultados
 
@@ -212,7 +212,7 @@ Características de la prueba:
   Tipo de análisis   Escaneo TCP
   Objetivo           Validar detección de puertos abiertos
 
-![Servidor iniciado](/11_metasploitable.png)
+![Servidor iniciado](imagenes/11_metasploitable.png)
 
 # 8. Limitaciones
 
