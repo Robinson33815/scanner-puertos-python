@@ -6,7 +6,7 @@ Escáner de puertos **TCP** con interfaz web, desarrollado en **Python** y **Dja
 
 > ⚠️ **Uso responsable:** utiliza esta herramienta únicamente en equipos propios, máquinas virtuales o laboratorios autorizados.
 
-![Servidor iniciando](/02_pantalla_principal.png)
+![Servidor iniciando](imagenes/02_pantalla_principal.png)
 
 ## Características
 
