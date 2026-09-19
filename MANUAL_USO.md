@@ -120,7 +120,7 @@ Botones:
 
 ## Escaneo en progreso
 
-![Escaneo en progreso](capturas/04_escaneo_en_progreso.png)
+![Servidor iniciado](/04_escaneo_en_progreso.png)
 
 Nota: el tiempo depende de la cantidad de puertos evaluados y de la
 respuesta del equipo analizado.
@@ -135,9 +135,9 @@ El sistema muestra:
 -   Resumen del análisis.
 -   Informe generado por el analista.
 
-![Resultados](capturas/05_resultados.png)
+![Servidor iniciado](/05_resultados.png)
 
-![Resumen del escaneo](capturas/06_resumen.png)
+![Servidor iniciado](/06_resumen.png)
 
 # 5.4 Informe del analista de ciberseguridad
 
@@ -149,11 +149,11 @@ El sistema genera un reporte con:
 -   Recomendaciones de mitigación.
 -   Conclusión técnica.
 
-![Informe del analista](capturas/07_informe_analista.png)
+![Servidor iniciado](/07_informe_analista.png)
 
-![Hallazgos](capturas/08_hallazgos.png)
+![Servidor iniciado](/08_hallazgos.png)
 
-![Recomendaciones](capturas/09_recomendaciones.png)
+![Servidor iniciado](/09_recomendaciones.png)
 
 # 5.5 Guardar resultados
 
@@ -164,7 +164,7 @@ El usuario puede descargar el archivo:
 Este contiene fecha, IP analizada, rango evaluado, puertos encontrados e
 informe generado.
 
-![Archivo guardado](capturas/10_archivo_guardado.png)
+![Servidor iniciado](/10_archivo_guardado.png)
 
 # 5.6 Uso por consola
 
@@ -177,7 +177,7 @@ python scanner_puertos.py
 El programa solicita la IP objetivo, rango de puertos y autorización
 antes de iniciar.
 
-![Uso por consola](capturas/12_consola.png)
+![Servidor iniciado](/12_consola.png)
 
 # 6. Interpretación de resultados
 
@@ -212,7 +212,7 @@ Características de la prueba:
   Tipo de análisis   Escaneo TCP
   Objetivo           Validar detección de puertos abiertos
 
-![Prueba Metasploitable](capturas/11_metasploitable.png)
+![Servidor iniciado](/11_metasploitable.png)
 
 # 8. Limitaciones
 
